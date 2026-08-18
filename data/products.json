@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "id": "atta",
+      "name": "Own-Milled Atta",
+      "blurb": "Freshly milled at our own facility — full control from grain to pack, for purity and taste you can trust.",
+      "products": [
+        { "name": "Mahaluxmi Bhog Atta", "desc": "Our flagship whole wheat atta — soft, fresh rotis every time. The name Ambala trusts.", "packs": "5 / 10 / 25 / 50 kg", "tag": "Our Flagship" },
+        { "name": "MP Wheat Atta", "desc": "Premium atta milled from select Madhya Pradesh wheat.", "packs": "5 / 10 / 25 kg", "tag": "Premium" },
+        { "name": "Sampoorn Atta", "desc": "Everyday whole wheat atta — wholesome and economical for daily use.", "packs": "5 / 10 / 25 / 50 kg" },
+        { "name": "Multigrain Atta", "desc": "Wholesome blend of wheat and other grains for added nutrition.", "packs": "5 / 10 kg" },
+        { "name": "Ragi Atta", "desc": "Finger millet flour — rich in calcium and fibre.", "packs": "1 / 5 kg" },
+        { "name": "Jowar Atta", "desc": "Sorghum flour, naturally gluten-free.", "packs": "1 / 5 kg" },
+        { "name": "Bajra Atta", "desc": "Pearl millet flour, warming and wholesome.", "packs": "1 / 5 kg" },
+        { "name": "Jaun (Barley) Atta", "desc": "Barley flour — light and fibre-rich.", "packs": "1 / 5 kg" },
+        { "name": "Makki (Maize) Atta", "desc": "Freshly milled corn flour for makki di roti.", "packs": "1 / 5 kg" }
+      ]
+    },
+    {
+      "id": "besan-daliya",
+      "name": "Besan & Daliya — Own-Milled",
+      "blurb": "Ground fresh in-house for aroma, consistency and quality.",
+      "products": [
+        { "name": "Besan (Gram Flour)", "desc": "Freshly milled from quality chana — fine and aromatic.", "packs": "1 / 25 / 50 kg" },
+        { "name": "Daliya", "desc": "Broken wheat, wholesome and high in fibre.", "packs": "1 / 5 / 25 kg" }
+      ]
+    },
+    {
+      "id": "pulses",
+      "name": "Pulses & Lentils",
+      "blurb": "A complete range of pulses and lentils — hand-picked quality, cleaned and graded for homes and wholesale buyers.",
+      "products": [
+        { "name": "All Pulses & Lentils", "desc": "Full range of dals and lentils available — hand-picked quality, cleaned and graded. Contact us for varieties and bulk pricing.", "packs": "Retail & Wholesale" }
+      ]
+    },
+    {
+      "id": "rice",
+      "name": "Rice — Wholesale",
+      "blurb": "Trusted rice brands and varieties for households and bulk buyers.",
+      "products": [
+        { "name": "Daawat Range", "desc": "Full range of Daawat basmati and specialty rice products.", "packs": "Retail & Wholesale" },
+        { "name": "Leysha Basmati Rice", "desc": "Long-grain aromatic basmati rice.", "packs": "Retail & Wholesale" },
+        { "name": "Parmal Rice", "desc": "Everyday non-basmati rice, great value.", "packs": "Wholesale" }
+      ]
+    },
+    {
+      "id": "staples",
+      "name": "Other Staples",
+      "blurb": "Everyday kitchen and wholesale essentials.",
+      "products": [
+        { "name": "Maida", "desc": "Fine refined flour for breads, pastries and commercial baking.", "packs": "25 / 50 kg" },
+        { "name": "Sooji / Rava", "desc": "Semolina for halwa, upma, idli and more.", "packs": "1 / 25 / 50 kg" },
+        { "name": "Wheat Bran (Chokar)", "desc": "Premium bran for fibre-rich blends and feed.", "packs": "Bulk" }
+      ]
+    }
+  ]
+}
